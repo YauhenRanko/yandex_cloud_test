@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="row"> 
+            <div class="col-6">
+                    <h3> Погода сегодня {{ weather_today }} градусов по цельсию </h3>
+			</div>
+            <div class="col-6">
+                    <h3>Погода на {{ date }} будет {{ weather_on_date }} градусов по цельсию</h3>
+            </div>
+    </div>  
+
+	{% endblock  %}
