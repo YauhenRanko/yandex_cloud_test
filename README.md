@@ -14,7 +14,7 @@
   - данные о температуре полученные по API в виде json преобразуются для пользователя сообщением и отправляются пользователю 
 
 ### Видео использования сервиса:
-https://drive.google.com/file/d/1DFkSgUJz1se9cLutiVKHTOJ4t21wINJz/view?usp=sharing
+https://drive.google.com/file/d/1a-x_gI01x3zn3ZtPWCJR9b8YKdVAp3qc/view?usp=sharing
 
 ## Процесс работы сервиса 
  Сервис - веб-сайт, пользователь вводит данные (город, дату), после чего получает получает ответные данные
